@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Reviewed  below topics in React-Native with this exercise;\n- Flex\n- User Defined Components\n- View Component\n",
+    "githubUrl": "https://github.com/Can-Yaman/RN-Flex.git"
   }
 }
